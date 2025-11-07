@@ -1,6 +1,6 @@
 ## walters-labs
 
-Welcome! This is the main entry-point for research and open-source projects associated to Walters Labs, the R&D component of Walters Consulting, LLC.
+This is the main entry-point for research and open-source projects associated to Walters Labs.
 
 Projects completed or actively maintained:
 
@@ -12,3 +12,5 @@ Projects completed or actively maintained:
 - [regularization-neural-networks](https://github.com/walters-labs/regularization-neural-networks)
 - [neuroimage-analysis](https://github.com/walters-labs/neuroimage-analysis)
 - [aes-block-cipher-modes](https://github.com/walters-labs/aes-block-cipher-modes)
+
+© 2025 Walters Consulting, LLC.
