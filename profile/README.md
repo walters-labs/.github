@@ -10,6 +10,7 @@ Projects completed or actively maintained:
 - [PINN](https://github.com/walters-labs/PINN)
 - [SIGINT](https://github.com/walters-labs/SIGINT)
 - [regularization-neural-networks](https://github.com/walters-labs/regularization-neural-networks)
+- [geometric-deep-learning](https://github.com/walters-labs/geometric-deep-learning)
 - [neuroimage-analysis](https://github.com/walters-labs/neuroimage-analysis)
 - [aes-block-cipher-modes](https://github.com/walters-labs/aes-block-cipher-modes)
 
