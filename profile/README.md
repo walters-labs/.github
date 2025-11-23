@@ -13,5 +13,3 @@ Projects completed or actively maintained:
 - [geometric-deep-learning](https://github.com/walters-labs/geometric-deep-learning)
 - [neuroimage-analysis](https://github.com/walters-labs/neuroimage-analysis)
 - [aes-block-cipher-modes](https://github.com/walters-labs/aes-block-cipher-modes)
-
-© 2025 Walters Consulting, LLC.
