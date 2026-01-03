@@ -16,3 +16,6 @@ This is the main entry-point for research and open-source projects associated to
 - [machine-learning](https://github.com/walters-labs/machine-learning)
 - [neuroimage-analysis](https://github.com/walters-labs/neuroimage-analysis)
 - [aes-block-cipher-modes](https://github.com/walters-labs/aes-block-cipher-modes)
+- [finance](https://github.com/walters-labs/finance)
+- [optimization](https://github.com/walters-labs/optimization)
+- [natural-language-processing](https://github.com/walters-labs/natural-language-processing)
