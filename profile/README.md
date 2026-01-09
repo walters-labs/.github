@@ -10,7 +10,7 @@ This is the main entry-point for research and open-source projects associated to
 ## research projects
 
 - [shors-algorithm](https://github.com/walters-labs/shors-algorithm)
-- [PINN](https://github.com/walters-labs/PINN)
+- [physics-informed-neural-network](https://github.com/walters-labs/PINN)
 - [SIGINT](https://github.com/walters-labs/SIGINT)
 - [machine-learning](https://github.com/walters-labs/machine-learning)
 - [natural-language-processing](https://github.com/walters-labs/natural-language-processing)
