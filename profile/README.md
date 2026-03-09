@@ -2,6 +2,10 @@
 
 This is the main entry-point for research and open-source projects associated to Walters Labs.
 
+## apps
+
+- [open-encrypt-web](https://github.com/walters-labs/open-encrypt-web), [open-encrypt-ios](https://github.com/walters-labs/open-encrypt-ios)
+
 ## applied research
 
 - [shors-algorithm](https://github.com/walters-labs/shors-algorithm)
