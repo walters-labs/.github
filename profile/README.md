@@ -1,6 +1,6 @@
 # walters-labs
 
-This is the main entry-point for research and open-source projects associated to Walters Labs.
+This is the main entry-point for applied research and open-source projects associated to Walters Labs.
 
 ## apps
 
