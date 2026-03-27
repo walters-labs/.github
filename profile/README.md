@@ -16,7 +16,6 @@ This is the main entry-point for applied research and open-source projects assoc
 - [finance](https://github.com/walters-labs/finance)
 - [optimization](https://github.com/walters-labs/optimization)
 - [neuroimage-analysis](https://github.com/walters-labs/neuroimage-analysis)
-- [aes-block-cipher-modes](https://github.com/walters-labs/aes-block-cipher-modes)
 
 ## cryptography primitives
 
@@ -24,3 +23,4 @@ This is the main entry-point for applied research and open-source projects assoc
 - [module-lwe](https://github.com/walters-labs/module-lwe)
 - [ring-lwe](https://github.com/walters-labs/ring-lwe)
 - [ntt](https://github.com/walters-labs/ntt)
+- [aes-block-cipher-modes](https://github.com/walters-labs/aes-block-cipher-modes)
