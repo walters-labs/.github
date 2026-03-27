@@ -17,3 +17,10 @@ This is the main entry-point for applied research and open-source projects assoc
 - [optimization](https://github.com/walters-labs/optimization)
 - [neuroimage-analysis](https://github.com/walters-labs/neuroimage-analysis)
 - [aes-block-cipher-modes](https://github.com/walters-labs/aes-block-cipher-modes)
+
+## cryptography primitives
+
+- [mlkem-fips203](https://github.com/walters-labs/mlkem-fips203)
+- [module-lwe](https://github.com/walters-labs/module-lwe)
+- [ring-lwe](https://github.com/walters-labs/ring-lwe)
+- [ntt](https://github.com/walters-labs/ntt)
