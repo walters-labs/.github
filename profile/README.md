@@ -16,7 +16,7 @@ This is the main entry-point for applied research and open-source projects assoc
 - [finance](https://github.com/walters-labs/finance)
 - [optimization](https://github.com/walters-labs/optimization)
 - [neuroimage-analysis](https://github.com/walters-labs/neuroimage-analysis)
-- [fft-dihedral-group](https://github.com/walters-labs/fft-dihedral/)
+- [fft-dihedral](https://github.com/walters-labs/fft-dihedral/)
 
 ## cryptography primitives
 
