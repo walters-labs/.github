@@ -17,7 +17,7 @@ This is the main entry-point for applied research and open-source projects assoc
 - [optimization](https://github.com/walters-labs/optimization)
 - [neuroimage-analysis](https://github.com/walters-labs/neuroimage-analysis)
 - [fft-dihedral](https://github.com/walters-labs/fft-dihedral/), [fft-dihedral-py](https://github.com/walters-labs/fft-dihedral-py/)
-- [fft-symmetric](https://github.com/walters-labs/fft-symmetric/)
+- [fft-symmetric](https://github.com/walters-labs/fft-symmetric/), [fft-symmetric-py](https://github.com/walters-labs/fft-symmetric-py/)
 
 ## cryptography primitives
 
