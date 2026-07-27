@@ -1,18 +1,23 @@
 # Walters Labs
 
-This is the main entry-point for applied research and open-source projects associated to Walters Labs.
+Walters Labs is the applied research and open-source software arm of Walters Consulting LLC. Projects span mathematical software, educational cryptography, scientific machine learning, and signal processing.
+
+Cryptographic implementations published here are intended for research and education unless explicitly stated otherwise. They have not been audited for production use.
 
 ## applied research
 
 - [PINN](https://github.com/walters-labs/PINN)
 - [SIGINT](https://github.com/walters-labs/SIGINT) 
 
-## cryptography primitives
+## standardized cryptography primitives
 
 - [mlkem-fips203](https://github.com/walters-labs/mlkem-fips203)
+- [aes-block-cipher-modes](https://github.com/walters-labs/aes-block-cipher-modes)
+
+## educational cryptography implementations
+
 - [module-lwe](https://github.com/walters-labs/module-lwe)
 - [ring-lwe](https://github.com/walters-labs/ring-lwe)
-- [aes-block-cipher-modes](https://github.com/walters-labs/aes-block-cipher-modes)
 
 ## cryptography tools
 
