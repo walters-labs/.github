@@ -5,8 +5,7 @@ This is the main entry-point for applied research and open-source projects assoc
 ## applied research
 
 - [physics-informed-neural-network](https://github.com/walters-labs/PINN)
-- [SIGINT](https://github.com/walters-labs/SIGINT)
-- [ntru-group-algebra](https://github.com/walters-labs/ntru-group-algebra), [ntru-group-algebra-py](https://github.com/walters-labs/NTRU-group-algebra-py) 
+- [SIGINT](https://github.com/walters-labs/SIGINT) 
 
 ## cryptography primitives
 
@@ -20,3 +19,7 @@ This is the main entry-point for applied research and open-source projects assoc
 - [ntt](https://github.com/walters-labs/ntt)
 - [fft-dihedral](https://github.com/walters-labs/fft-dihedral/), [fft-dihedral-py](https://github.com/walters-labs/fft-dihedral-py/)
 - [fft-symmetric](https://github.com/walters-labs/fft-symmetric/), [fft-symmetric-py](https://github.com/walters-labs/fft-symmetric-py/)
+
+## experimental cryptography
+
+- [ntru-group-algebra](https://github.com/walters-labs/ntru-group-algebra), [ntru-group-algebra-py](https://github.com/walters-labs/NTRU-group-algebra-py)
