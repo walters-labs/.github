@@ -4,7 +4,7 @@ This is the main entry-point for applied research and open-source projects assoc
 
 ## applied research
 
-- [physics-informed-neural-network](https://github.com/walters-labs/PINN)
+- [PINN](https://github.com/walters-labs/PINN)
 - [SIGINT](https://github.com/walters-labs/SIGINT) 
 
 ## cryptography primitives
