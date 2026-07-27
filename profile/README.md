@@ -30,4 +30,4 @@ have not been audited and are not intended for production use.
 
 ## experimental cryptography
 
-- [ntru-group-algebra](https://github.com/walters-labs/ntru-group-algebra), [ntru-group-algebra-py](https://github.com/walters-labs/NTRU-group-algebra-py)
+- [gr-ntru](https://github.com/walters-labs/gr-ntru), [gr-ntru-py](https://github.com/walters-labs/gr-ntru-py)
