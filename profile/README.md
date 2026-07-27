@@ -22,7 +22,7 @@ have not been audited and are not intended for production use.
 - [module-lwe](https://github.com/walters-labs/module-lwe)
 - [ring-lwe](https://github.com/walters-labs/ring-lwe)
 
-## cryptography tools
+## fourier transforms over finite fields
 
 - [ntt](https://github.com/walters-labs/ntt)
 - [fft-dihedral](https://github.com/walters-labs/fft-dihedral/), [fft-dihedral-py](https://github.com/walters-labs/fft-dihedral-py/)
