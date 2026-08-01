@@ -1,6 +1,6 @@
 # Walters Labs
 
-Walters Labs is the applied research and open-source software arm of Walters Consulting LLC. Projects span mathematical software, educational cryptography, scientific machine learning, and signal processing.
+Walters Labs hosts applied research and open-source software. Projects span mathematical software, educational cryptography, scientific machine learning, and signal processing.
 
 Cryptographic implementations published here are intended for research and education unless explicitly stated otherwise. They have not been audited for production use.
 
