@@ -16,6 +16,7 @@ have not been audited and are not intended for production use.
 
 - [mlkem-fips203](https://github.com/walters-labs/mlkem-fips203)
 - [aes-block-cipher-modes](https://github.com/walters-labs/aes-block-cipher-modes)
+- [sp800-90b][https://github.com/walters-labs/sp800-90b]
 
 ## educational cryptography implementations
 
