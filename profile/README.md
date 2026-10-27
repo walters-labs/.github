@@ -8,10 +8,6 @@ and limitations.
 
 ## Mathematical and research software
 
-- [SP 800-90B](https://github.com/walters-labs/sp-800-90b) provides Rust tools for
-assessing noise-source min-entropy, with command-line interfaces and
-allocation-free embedded health tests. Includes comparisons against NIST's
-reference implementation. Not NIST-endorsed or certified.
 - [ntt](https://github.com/walters-labs/ntt): Number theoretic transforms in Rust.
 - [fft-dihedral](https://github.com/walters-labs/fft-dihedral) and
   [fft-dihedral-py](https://github.com/walters-labs/fft-dihedral-py): Fourier
@@ -29,6 +25,10 @@ reference implementation. Not NIST-endorsed or certified.
   implementation of ML-KEM as specified in FIPS 203.
 - [aes-block-cipher-modes](https://github.com/walters-labs/aes-block-cipher-modes):
   Educational implementations of AES and block cipher modes.
+- [SP 800-90B](https://github.com/walters-labs/sp-800-90b) provides Rust tools for
+assessing noise-source min-entropy, with CLI and
+allocation-free embedded health tests. Includes comparisons against NIST's
+reference implementation. Not NIST-endorsed or certified.
 - [module-lwe](https://github.com/walters-labs/module-lwe): Module-LWE encryption
   in Rust.
 - [ring-lwe](https://github.com/walters-labs/ring-lwe): Ring-LWE encryption in Rust.
