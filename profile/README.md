@@ -34,7 +34,7 @@ reference implementation. Not NIST-endorsed or certified.
 - [ring-lwe](https://github.com/walters-labs/ring-lwe): Ring-LWE encryption in Rust.
 - [PINN](https://github.com/walters-labs/PINN): Experiments with physics-informed
   neural networks for partial differential equations.
-- [SIGINT](https://github.com/walters-labs/SIGINT): Signal-processing experiments.
+- [sigint-examples](https://github.com/walters-labs/SIGINT): Signal-processing experiments.
 
 The cryptographic implementations listed here, including GR-NTRU, are intended
 for research and education. They have not been audited and are not intended for
