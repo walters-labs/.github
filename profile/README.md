@@ -6,7 +6,7 @@ Research software in cryptography and policy analysis.
 
 - [scotus-v-public](https://github.com/walters-labs/scotus-v-public): Webapp comparing SCOTUS opinions with open public opinion data.
 
-## Educational lattice-based cryptography software
+## Educational cryptography software
 
 - [ntt](https://github.com/walters-labs/ntt): Number theoretic transforms in Rust.
 - [mlkem-fips203](https://github.com/walters-labs/mlkem-fips203): Educational
