@@ -6,9 +6,9 @@ Projects include numerical tools, implementations accompanying research, and
 educational experiments. See each repository for its intended use, verification,
 and limitations.
 
-## Apps
+## Webapps
 
--[scotus-v-public](https://github.com/walters-labs/scotus-v-public): Webapp comparing SCOTUS opinions with open public opinion data.
+- [scotus-v-public](https://github.com/walters-labs/scotus-v-public): Webapp comparing SCOTUS opinions with open public opinion data.
 
 ## Educational lattice-based cryptography software
 
