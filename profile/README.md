@@ -6,6 +6,10 @@ Projects include numerical tools, implementations accompanying research, and
 educational experiments. See each repository for its intended use, verification,
 and limitations.
 
+## Apps
+
+-[scotus-v-public](https://github.com/walters-labs/scotus-v-public): Webapp comparing SCOTUS opinions with open public opinion data.
+
 ## Educational lattice-based cryptography software
 
 - [ntt](https://github.com/walters-labs/ntt): Number theoretic transforms in Rust.
@@ -15,30 +19,6 @@ and limitations.
   in Rust.
 - [ring-lwe](https://github.com/walters-labs/ring-lwe): Ring-LWE encryption in Rust.
 
-## Educational implementations
-
-- [aes-block-cipher-modes](https://github.com/walters-labs/aes-block-cipher-modes):
-  Educational implementations of AES and block cipher modes.
-- [SP 800-90B](https://github.com/walters-labs/sp-800-90b) provides Rust tools for
-assessing noise-source min-entropy, with CLI and
-allocation-free embedded health tests. Includes comparisons against NIST's
-reference implementation. Not NIST-endorsed or certified.
-- [PINN](https://github.com/walters-labs/PINN): Experiments with physics-informed
-  neural networks for partial differential equations.
-- [sigint-examples](https://github.com/walters-labs/SIGINT): Signal-processing experiments.
-
-## Research tools and experiments
-
-- [fft-dihedral](https://github.com/walters-labs/fft-dihedral) and
-  [fft-dihedral-py](https://github.com/walters-labs/fft-dihedral-py): Fourier
-  transforms on dihedral groups over finite fields, in Rust and Python.
-- [fft-symmetric](https://github.com/walters-labs/fft-symmetric) and
-  [fft-symmetric-py](https://github.com/walters-labs/fft-symmetric-py): Fourier
-  transforms on symmetric groups over finite fields, in Rust and Python.
-- [gr-ntru](https://github.com/walters-labs/gr-ntru) and
-  [gr-ntru-py](https://github.com/walters-labs/gr-ntru-py): Experimental research
-  cryptography exploring NTRU over group algebras, in Rust and Python.
-
-The cryptographic implementations listed here, including GR-NTRU, are intended
+The cryptographic implementations listed here are intended
 for research and education. They have not been audited and are not intended for
 production use.
