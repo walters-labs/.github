@@ -1,10 +1,6 @@
 # Walters Labs
 
-Research software in mathematics and scientific computing, primarily in Rust.
-
-Projects include numerical tools, implementations accompanying research, and
-educational experiments. See each repository for its intended use, verification,
-and limitations.
+Research software in cryptography and policy analysis.
 
 ## Webapps
 
