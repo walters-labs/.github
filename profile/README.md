@@ -2,7 +2,7 @@
 
 Research software in cryptography and policy analysis.
 
-## Webapps
+## Web apps
 
 - [scotus-v-public](https://github.com/walters-labs/scotus-v-public), [svp.walterslabs.dev](https://svp.walterslabs.dev): Webapp comparing SCOTUS opinions with open public opinion data.
 
