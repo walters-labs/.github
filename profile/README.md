@@ -4,7 +4,7 @@ Research software in cryptography and policy analysis.
 
 ## Web apps
 
-- [scotus-v-public](https://github.com/walters-labs/scotus-v-public), [svp.walterslabs.dev](https://svp.walterslabs.dev): Policy analysis tool comparing SCOTUS opinions with open public opinion data.
+- [svp](https://github.com/walters-labs/svp), [svp.walterslabs.dev](https://svp.walterslabs.dev): Policy analysis tool comparing SCOTUS opinions with open public opinion data.
 
 ## Educational cryptography software
 
