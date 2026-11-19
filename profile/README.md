@@ -5,6 +5,7 @@ Research software in cryptography and policy analysis.
 ## Web apps
 
 - [svp](https://github.com/walters-labs/svp), [svp.walterslabs.dev](https://svp.walterslabs.dev): Policy analysis tool comparing SCOTUS opinions with open public opinion data.
+- [folio](https://projects.walterslabs.dev): A lightweight project management tool for artists and creatives.
 
 ## Educational cryptography software
 
